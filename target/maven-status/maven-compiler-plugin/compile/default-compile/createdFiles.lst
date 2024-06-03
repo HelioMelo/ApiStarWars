@@ -1,0 +1,13 @@
+com\starwars\apirest\repository\FilmsRepository.class
+com\starwars\apirest\repository\PilotsRepository.class
+com\starwars\apirest\ApirestApplication.class
+com\starwars\apirest\models\Pilots.class
+com\starwars\apirest\config\SwaggerConfig.class
+com\starwars\apirest\models\Starships.class
+com\starwars\apirest\config\SwaggerConfig$1.class
+com\starwars\apirest\repository\StarshipsRepository.class
+com\starwars\apirest\resources\FilmsResources.class
+com\starwars\apirest\resources\StarshipsResources.class
+com\starwars\apirest\models\Films.class
+com\starwars\apirest\models\Modulo\Persistence.class
+com\starwars\apirest\resources\PiltosResources.class
