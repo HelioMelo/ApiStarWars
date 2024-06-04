@@ -40,3 +40,22 @@ sistema efetuará alguns testes de integração e alguns testes unitários,
 retornando verde se tudo deu certo ou vermelho se algo deu
 errado.(Normalmente quando faz build do projeto com mvn package ele
 já efetua os testes sozinho).
+
+
+
+site 
+https://app.netlify.com/sites/starwars-helio/deploys
+
+back
+https://apistarwars-fknc.onrender.com/swagger-ui.html
+
+banco de dados 
+https://supabase.com/dashboard/projects
+
+
+video
+https://drive.google.com/file/d/1L5cYMK459Q7SUWt2SgjxrS4SoW2m7O13/view?usp=sharing
+
+
+
+
